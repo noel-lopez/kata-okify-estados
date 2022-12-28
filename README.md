@@ -3,6 +3,12 @@ Technical test for Okify.
 
 ## Getting Started
 
+Install dependencies:
+
+```bash
+npm install
+```
+
 To run tests:
 
 ```bash
